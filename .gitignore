@@ -1,0 +1,3 @@
+#ignore the node_modules, means that you need to rebuild and install node components on a different system
+node_modules/
+
